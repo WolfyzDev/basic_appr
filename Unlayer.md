@@ -40,9 +40,7 @@ Vous pouvez aussi :
 
 - Personnaliser les mails avec des infos dynamiques. Exemple : 
 
-  ````txt
-  Hello {{name}}
-  ````
+  `Hello {{name}}`
 
 * Customiser et récupérer le code HTML généré par le site
 * Utiliser plein d'autres fonctionnalités que vous nous laissons découvrir
