@@ -8,6 +8,7 @@ description: Cheat-Sheet : VIM
 icon: "https://th.bing.com/th/id/OIP.vJx4ly74O4Sw-nSmraAafgHaE6?w=216&h=180&c=7&r=0&o=5&dpr=1.38&pid=1.7"
 tags: [ Logiciels & Outils, Cheat-Sheet, VIM, Gratuit]
 
+
 ---
 
 L'éditeur de code VIM est un éditeur s'ouvrant dans un terminal; on ne peut donc pas se déplaçer dedans avec la souris. 
@@ -22,9 +23,9 @@ Voici, pour vous aider, un site réunissant sur une seule page la liste des touc
 
 Cliquez ici pour télécharger, soit en anglais, soit en français : 
 
-[!file Télécharger le fichier en français](./Vim Cheat Sheet fr.pdf)
+[!file fr](./Vim Cheat Sheet fr.pdf)
 
-[!file Télécharger le fichier en anglais](./Vim Cheat Sheet_en.pdf)
+[!file en](./Vim Cheat Sheet_en.pdf)
 
 !!!info Info
 
