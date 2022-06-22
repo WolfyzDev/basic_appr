@@ -17,11 +17,13 @@ Le logiciel est donc dur à appréhender mais quand on le maîtrise, notre vites
 Voici, pour vous aider, un site réunissant sur une seule page la liste des touches et des actions sur VIM. 
 
 [!button variant="primary" text="Accéder au site en français"](https://vim.rtorr.com/lang/fr_fr)
+
 [!button variant="secondary" text="Accéder au site orginal (en) "](https://vim.rtorr.com/)
 
 Cliquez ici pour télécharger, soit en anglais, soit en français : 
 
 [!file Télécharger le fichier en français](./Vim Cheat Sheet fr.pdf)
+
 [!file Télécharger le fichier en anglais](./Vim Cheat Sheet_en.pdf)
 
 !!!info Info
