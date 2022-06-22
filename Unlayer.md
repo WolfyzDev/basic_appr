@@ -12,7 +12,7 @@ title: Unlayer, création de template d'email
 
 ---
 
-Unlayer, site pour créer des templates d'email
+## Unlayer, site pour créer des templates d'email
 
 <br>
 
@@ -38,9 +38,7 @@ Vous avez aussi accès à un dashnoard pour gérer vos template, et de nouvelles
 
 Vous pouvez aussi : 
 
-- Personnaliser les mails avec des infos dynamiques. Exemple : 
-
-  `Hello {{name}}`
+- Personnaliser les mails avec des infos dynamiques (avec des variables par exemple, pour que le nom de l'adresse mail figure sur l'email	)
 
 * Customiser et récupérer le code HTML généré par le site
 * Utiliser plein d'autres fonctionnalités que vous nous laissons découvrir
