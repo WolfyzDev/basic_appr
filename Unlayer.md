@@ -11,6 +11,7 @@ Author:
 date: 2022-06-22
 description: TUnlayer, un outil pour template d'email
 icon: "https://uploads-ssl.webflow.com/5daaade3e3e3f0d01b1daa77/5e0881eead6bad8040b39f02_color_logo_transparent%402x-p-500.png"
-label: Logiciel&Outils
+tags: [logiciel&outils, site, business_entreprise_marketing, e-mail]
+title: Unlayer, création de template d'email 
 
 ---
